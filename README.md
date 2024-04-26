@@ -2,7 +2,7 @@
 
 Learning python through the udemy course:
 
-link: https://www.udemy.com/course/rest-api-flask-and-python/?couponCode=2021PM25
+link: https://www.udemy.com/course/rest-api-flask-and-python
 
 ## What I learned doing the course?
 
